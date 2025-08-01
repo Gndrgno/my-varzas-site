@@ -246,6 +246,7 @@ ol{
    }
    .board-block-design{
     margin-bottom: 5px;
+    border: 0.3vw solid rgb(0, 78, 0) !important;
    }
    .board-h2-design{
     font-size: calc(0.9em + 0.95vw);
@@ -298,6 +299,7 @@ ol{
    }
    #help-buttons a{
     font-size: calc(0.63vw + 0.63em);
+    padding: 0.3vw 1.1vw;
    }
    .copyright{
     font-size: calc(0.55vw + 0.55em);
