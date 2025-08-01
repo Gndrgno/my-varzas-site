@@ -242,17 +242,17 @@ ol{
     padding: 0 0.5em 0 0.5em;
    }
    .varzas-logo{
-    width: 55%;
+    width: 70%;
    }
    .board-block-design{
     margin-bottom: 5px;
    }
    .board-h2-design{
-    font-size: calc(1em + 1.05vw);
-    padding: 0.2vw 2vw;
+    font-size: calc(0.9em + 0.95vw);
+    padding: 0.3vw 2vw;
    }
    .board-p-design{
-    font-size: calc(0.9em + 0.9vw);
+    font-size: calc(0.8em + 0.8vw);
     padding: 0.6vw 2vw;
    }
    .themes-block{
@@ -262,14 +262,14 @@ ol{
     padding-right: 2vw !important;
    }
    #theme-list a{
-    font-size: calc(0.9em + 0.9vw);
+    font-size: calc(0.8em + 0.8vw);
    }
    #close-cross{
     height: 5vw;
     margin-right: 3vw;
    }
    .data{
-    font-size: calc(0.9vw + 0.9em);
+    font-size: calc(0.8vw + 0.8em);
    }
    .fast-commands-video{
     display: none;
@@ -285,19 +285,19 @@ ol{
    }
    .popular-post-item img{
     min-height: 250px;
-    margin: 10px 0;
+    margin: 8px 0;
    }
    .popular-post-item h3{
-    font-size: calc(0.9em + 0.9vw);
+    font-size: calc(0.8em + 0.8vw);
    }
    .state-cell{
-    font-size: calc(0.9em + 0.9vw);
+    font-size: calc(0.8em + 0.8vw);
    }
    .state-block{
     padding: 10px;
    }
    #help-buttons a{
-    font-size: calc(0.73vw + 0.73em);
+    font-size: calc(0.63vw + 0.63em);
    }
    .copyright{
     font-size: calc(0.55vw + 0.55em);
