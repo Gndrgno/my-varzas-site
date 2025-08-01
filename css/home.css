@@ -246,7 +246,7 @@ ol{
    }
    .board-block-design{
     margin-bottom: 5px;
-    border: 0.3vw solid rgb(0, 78, 0) !important;
+    border: 1.5px solid rgb(0, 78, 0) !important;
    }
    .board-h2-design{
     font-size: calc(0.9em + 0.95vw);
